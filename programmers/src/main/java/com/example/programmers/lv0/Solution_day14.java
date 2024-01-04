@@ -1,3 +1,5 @@
+package com.example.programmers.lv0;
+
 import java.util.Arrays;
 
 public class Solution_day14 {
