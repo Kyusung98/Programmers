@@ -34,7 +34,7 @@ public class pcce7 {
         else if (humidity >= 10)
             return 4;
 
-        ;
+        return 5;
     }
 
     public int func3(int humidity, int val_set){
